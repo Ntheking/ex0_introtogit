@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue
+Favorite food: Ice cream
+Favorite musician/band: Beethoven
+Favorite movie: Ocean's 11
+Requested grade in the course: 100
